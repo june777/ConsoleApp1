@@ -2,5 +2,4 @@
 
 Console.WriteLine("Hello, World!aa");
 
-Console.WriteLine("Hello, World!");
 
